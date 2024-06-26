@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
 //        }
 
         Log.d("tag", "git test")
+        Log.d("tag", "git kraken test")
     }
 }
